@@ -1,7 +1,5 @@
 # WebGIS SUHI Kabupaten Bekasi
 
-![Logo](Logo_WebGIS_SUHI_Bekasi_putih.png)
-
 Repository ini berisi script WebGIS untuk melihat kondisi Surface Urban Heat Island (SUHI) di Kabupaten Bekasi dari tahun 2019 sampai 2025. Pengolahan datanya saya lakukan di Google Earth Engine menggunakan citra Landsat 8 OLI/TIRS Collection 2 Level 2.
 
 Link WebGIS: https://ee-briliant2709.projects.earthengine.app/view/webgis-suhi-kabupaten-bekasi
